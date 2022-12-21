@@ -1,3 +1,1 @@
-# rsschool-cv
-# test 1
-# final check test
+Kazper's repository for any tests
