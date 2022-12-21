@@ -1,4 +1,1 @@
-# rsschool-cv
-# test 1
-# final check test
-# add new text
+21.12.2022 - HTML5 and CSS learning
